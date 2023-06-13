@@ -1,7 +1,0 @@
-﻿E:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Задача Коммивояжера.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  Commi.cpp
-C:\Users\Gaaro\OneDrive\Рабочий стол\Commi\Commi\Commi\graph.h(77,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Gaaro\OneDrive\Рабочий стол\Commi\Commi\Commi\graph.h(306,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Gaaro\OneDrive\Рабочий стол\Commi\Commi\Commi\graph.h(380,20): warning C4018: <: несоответствие типов со знаком и без знака
-  LINK : не найден или не выполнена сборка C:\Users\Gaaro\OneDrive\Рабочий стол\Commi\Commi\Commi\Debug\Commi.exe при последней инкрементной компоновке; выполняется полная компоновка
-  Commi.vcxproj -> C:\Users\Gaaro\OneDrive\Рабочий стол\Commi\Commi\Commi\Debug\Commi.exe
